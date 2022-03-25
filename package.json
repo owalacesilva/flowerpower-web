@@ -232,7 +232,7 @@
     "invariant": "2.2.2",
     "ip": "1.1.5",
     "lodash": "4.17.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.23",
     "prop-types": "15.5.10",
